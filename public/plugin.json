@@ -1,0 +1,12 @@
+{
+  "main": "index.html",
+  "logo": "favicon.png",
+  "preload": "./preload.js",
+  "features": [
+    {
+      "code": "mojibake",
+      "explain": "乱码恢复",
+      "cmds": ["乱码恢复", { "type": "over", "label": "乱码恢复", "minLength": 1, "maxLength": 1024 }]
+    }
+  ]
+}
