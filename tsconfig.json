@@ -17,5 +17,8 @@
     "jsx": "react-jsx"
   },
   "include": ["src"],
+  "types": [
+    "utools-api-types"
+  ],
   "references": [{ "path": "./tsconfig.node.json" }]
 }
